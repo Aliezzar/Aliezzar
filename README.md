@@ -55,5 +55,5 @@ Check out my latest project for a web design competition:
 </p>
 
 <p align="center">
-  <img src="[/mnt/data/A_modern_Japanese_city_at_night,_with_vibrant_neon.png](https://github.com/Aliezzar/Aliezzar/blob/main/d.jpg)" alt="Aesthetic Japanese Modern City" />
+  <img src="https://github.com/Aliezzar/Aliezzar/blob/main/d.jpg" alt="Aesthetic Japanese Modern City" />
 </p>
