@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to My World! 🌃</h1>
+<h1 align="center">Welcome to My Profile! 🌆</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Hello+there!+I'm+Aliezzar+Wijaya;Call+me+Ezzar;Web+Design+%26+Programming+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3300&color=00FFFF&center=true&vCenter=true&lines=Hello+there!+I'm+Aliezzar+Wijaya;Call+me+Ezzar;Logic+%26+Programming+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,4 +52,8 @@ Check out my latest project for a web design competition:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aliezzar&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="[/mnt/data/A_modern_Japanese_city_at_night,_with_vibrant_neon.png](https://github.com/Aliezzar/Aliezzar/blob/main/d.jpg)" alt="Aesthetic Japanese Modern City" />
 </p>
