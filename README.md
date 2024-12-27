@@ -20,8 +20,7 @@ Aku sangat menikmati tantangan coding dan selalu berusaha menciptakan karya-kary
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://x.com/AliezzarWijaya1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/aliezzar42/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/aliezzar._/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
