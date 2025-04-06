@@ -57,5 +57,5 @@ Check out my latest project for a web design competition:
 </p>
 
 <p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Aliezzar/Aliezzar/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Aliezzar/Aliezzar/output/github-contribution-grid-snake-dark.svg)
 </p>
