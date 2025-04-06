@@ -57,5 +57,5 @@ Check out my latest project for a web design competition:
 </p>
 
 <p align="center">
-  <img src="https://github.com/Aliezzar/Aliezzar/blob/main/d.jpg" alt="Aesthetic Japanese Modern City" />
+  ![Snake animation](https://raw.githubusercontent.com/Aliezzar/Aliezzar/output/github-contribution-grid-snake-dark.svg)
 </p>
